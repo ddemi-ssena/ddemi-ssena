@@ -1,14 +1,14 @@
-## Hey, I’m Sena 
+## Hey, I’m Sena 🪷 
 
-I do software & AI things 🤖  
-Computer engineering student, curious about data, AI and building useful products.
+I do software & AI things 👩🏻‍💻 
+Computer engineering student, curious about AI, data and building useful products.
 
 ---
 
-### 🚧 Currently working on
-- AI & data-focused projects  
-- Mobile & backend experiments  
+### ⌛ Currently working on
+- AI & data-focused projects    
 - Learning by building (and breaking) things
+- Propel: AI-Powered Performance Management System
 
 ---
 
