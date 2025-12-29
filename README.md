@@ -13,15 +13,19 @@ Computer engineering student, curious about AI, data and building useful product
 ### 🛠 Tools & Technologies
 **Languages**
 - Python, Java, TypeScript, SQL
+  
 **Frontend**
 - Vue.js  
 - Tailwind CSS
+  
 **Backend**
 - Spring Boot  
 - REST APIs
+  
 **Database**
 - PostgreSQL  
 - Firebase Firestore
+  
 **AI / Data**
 - NumPy, Pandas  
 - Scikit-learn (basics)  
