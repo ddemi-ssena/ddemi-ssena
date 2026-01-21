@@ -96,8 +96,6 @@ experimenting with different technologies, domains, and problem settings,.
 ---
 
 
----
-
 ## 🌱 Currently Learning
 - Advanced ML model deployment  
 - Scalable AI services  
@@ -114,7 +112,7 @@ develop a broader perspective, empathy, and a deeper understanding of human
 behavior, which I believe is essential when building technology that interacts
 with people and organizations.
 
-
+---
 
 🌌I am motivated by thoughtful problem-solving, continuous learning, and building
 reliable systems that turn data and ideas into meaningful, responsible, and
